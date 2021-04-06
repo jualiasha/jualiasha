@@ -18,3 +18,5 @@ Adwords, GAnalitics, Pixel, Facebook, Instagram, ManyChat, Zapier, YouTube SEO C
 
 # Looking for summer internship. Pick me :100:))
 
+[LinkedIn](www.linkedin.com/in/jualiasha)
+
