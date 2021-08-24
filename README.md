@@ -16,7 +16,7 @@ I am an ambitioous straight going person. I like computers and games since child
 HTML CSS Bootstrap Java Script PHP MD React SQL WordPress Modx Drupal Joomla Figma Agile Scrum UX/UI Photoshop Adobe Fireworks TrelloCRM HubSpotCRM WindowsMovieMaker VlogStar
 Adwords, GAnalitics, Pixel, Facebook, Instagram, ManyChat, Zapier, YouTube SEO ChatBot Development Visual Studio Code
 
-# Looking for summer internship. Pick me :100:))
+# Looking for internship and job as well. Pick me :100:))
 
 [LinkedIn](www.linkedin.com/in/jualiasha)
 
