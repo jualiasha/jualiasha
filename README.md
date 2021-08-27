@@ -10,6 +10,7 @@ I am an ambitioous straight going person. I like computers and games since child
 - since 2009 digital marketing
 - since 2016 HTML5 CSS3 Bootstrap coding
 - since 2020 ManyChat platform, chatbot development
+- since 2021 React Node JS
 
 ## Nowadays :see_no_evil: - Student in Business College Helsinki, Full Stack
 
