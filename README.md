@@ -12,46 +12,27 @@ I am an ambitioous straight going person. I like computers and games since child
 - since 2020 ManyChat platform, chatbot development
 - since 2021 Full Stack Developer
 
-ENV:
--Node.js
--React.js
--Lit.js
--Redux
--Highcharts.js
--Open-wc.js
--Next.js
--Rush.js
-
-DEMO:
--Storybook.js
-
-TESTING:
--Jest.js
--Chai.js
--Mocha.js
-
 LANGS:
--JS
--CSS/SCSS
--TypeScript
--C++
+
+- JS, CSS/SCSS, TypeScript, C++
 
 Markups:
--HTML
--MD
 
+- HTML, MD
 
-HELPERS:
--Shoelace, Vaadin, UI5 WC, Material UI, Bootstrap, MUI
+ENV: Node.js, React.js, Lit.js, Redux, Highcharts.js, Open-wc.js, Next.js, Rush.js, 
 
-ServerSide:
--AWS
+DEMO: Storybook.js
 
-UI/UX:
-Figma
+TESTING: Jest.js, Chai.js, Mocha.js
 
-Agile:
-Jira, Trello
+HELPERS: Shoelace, Vaadin, UI5 WC, Material UI, Bootstrap, MUI
+
+ServerSide: AWS
+
+UI/UX: Figma
+
+Agile: Jira, Trello
 
 
 ## Nowadays :see_no_evil: - Software Developer at Simanalytics Oy
