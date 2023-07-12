@@ -22,6 +22,8 @@ Markups:
 
 ENV: Node.js, React.js, Lit.js, Redux, Highcharts.js, Open-wc.js, Next.js, Rush.js, 
 
+BUILD: Vite, RollUp, WebPack,
+
 DEMO: Storybook.js
 
 TESTING: Jest.js, Chai.js, Mocha.js
